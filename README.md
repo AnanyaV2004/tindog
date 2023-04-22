@@ -9,4 +9,4 @@ An online dating platform for dogs. The concept is similar to that of tinder
 - Javascript
 - Bootstrap
 
-Note: A sneek-peek of the website can be viewed fromthe Screenshots folder.
+***Note:*** *A sneek-peek of the website can be viewed from the Screenshots folder.*
